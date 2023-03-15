@@ -1,0 +1,2 @@
+# Triangle
+To print triangle
